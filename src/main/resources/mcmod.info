@@ -1,0 +1,10 @@
+[
+{
+  "modid": "mfmod",
+  "name": "My First Mod",
+  "description": "My First Cool Mod, Pls Enjoy",
+  "version": "${1.0}",
+  "mcversion": "${1.12.2}",
+  "authorList": ["Mineknight"]
+}
+]
